@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @prudhvish11<br>👀 I’m interested in data science and web development<br>💞️ I’m looking to collaborate on data science and web development<br>📫 How to reach me https://www.linkedin.com/in/prudhvish11/
+👋 Hi, I’m @prudhvish11<br>👀 I’m interested in data science and web development<br>💞️ I’m looking to collaborate on data science and web development<br>📫 How to reach me https://linktr.ee/prudhvishn
 
 
 ## 🌐 Socials:
